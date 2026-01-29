@@ -1,16 +1,15 @@
-## Hi there 👋
+## みなさん、こんにちは。
 
-<!--
-**i-w-a-s-a-k-i/i-w-a-s-a-k-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+私はAndroidアプリ、Flutterアプリ、デバイス管理システムの開発を専門とするソフトウェアエンジニアです。IT学習コンテンツの制作にも取り組んでいます。
 
-Here are some ideas to get you started:
+## スキル
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Kotlin, Dart, Java, (Python)
+- **Frameworks**: Flutter, Android Jetpack
+- **Tools**: Git, Android Studio, Figjam,
+- **Platforms** : Android, (ios)
+
+## プロダクト
+
+### [準備中](https://github.com/i-w-a-s-a-k-i)
+準備中。。
